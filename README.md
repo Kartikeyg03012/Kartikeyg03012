@@ -7,7 +7,7 @@
 - kartikeyg77@gmail.com
 
 
-# Check Out My All Projects 👇👇👇
+# Check Out My Projects 👇👇👇
 
 <!---
 Kartikeyg03012/Kartikeyg03012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
