@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kartikey Gupta.
 - 👀 I’m a Full Stack Java Developer.
-- 🌱 I’m currently learning Docker.
+- 🌱 I’m currently working on DSA.
 - 🤝 Thanks for visiting my profile.
 - 📫 How to reach me ...
 - https://www.linkedin.com/in/kartikey-gupta-015a56194/
